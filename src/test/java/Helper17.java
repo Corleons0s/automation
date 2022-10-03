@@ -1,8 +1,6 @@
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.WebDriver;
 public class Helper17 {
-    //    public static final String CHROMEKEY = "webdriver.chrome.driver";
-//    public static final String CHROMEPATH = "res\\chromedriver.exe";
     public static final String WZAP_HTTP = "https://www.combar.co.il/tools/whatsapp-link-generator/";
     public static final String XPATH_FON = "//*[@id=\"telephone\"]";
     public static final String FON = "534599976";
@@ -13,10 +11,6 @@ public class Helper17 {
     public static final String XPATH_COPY_LINK_WZAP =
             "/html/body/div[2]/div/div/div/div/div/div[1]/div[1]/div/div/div[2]/div[2]/div/div/button";
     public static final String MY_WHATSUPP_WEB = "https://web.whatsapp.com/";
-    //    public static final String xpat_found_name = "//*[@id=\"side\"]/div[1]/div/div/div[2]/div/div[2]";
-//    public static final String hebrew_found_name = "רוסיטה"  ;
-//    public static final String xpat_rusita_chet =
-//    "//*[@id=\"pane-side\"]/div[1]/div/div/div[7]/div/div/div[2]";
     public static final String LINK_MAZAL_TOV_RUSITA_WHATSUPP =
             "https://web.whatsapp.com/send?phone=972534599976&text=Dear+Rosita,+" +
                     "we+had+fun+studying+with+you+(still+fun).+I+want+to+wish+you+" +
@@ -32,9 +26,6 @@ public class Helper17 {
             "/html/body/div[2]/div/div/div/div/div/div[2]/div/div/div/div[3]/a";
     public static final String WAZE_CITY_FOUNDS = "אזור";
     public static final String XPAT_POZISHEN_FOUNDS = "//*[@id=\"submit\"]";
-    //    public static final String xpat_copy_link_waze =
-//            "/html/body/div[2]/div/div/div/div/div/div[1]/div/div/div/div[2]/div[1]/div[2]/div[2]/button";
-    // לא הצלחתי להעתיק נכון את הקישור ולהציג
     public static final String  XPAT_CKIK_BIFOR_PASSWORD = "//*[@id=\"length\"]";
     public static final String NUM_TABS_BIFOR_PASSWORD = "20";
     public static final String XPAT_V_CLIK_BIFOR_PASWRD = "//*[@id=\"symbols\"]";
